@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GrimFighter/form-app.git/static/css/main.a3c8bb2f.css",
+    "main.js": "/GrimFighter/form-app.git/static/js/main.9f3d7460.js",
+    "index.html": "/GrimFighter/form-app.git/index.html",
+    "main.a3c8bb2f.css.map": "/GrimFighter/form-app.git/static/css/main.a3c8bb2f.css.map",
+    "main.9f3d7460.js.map": "/GrimFighter/form-app.git/static/js/main.9f3d7460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c8bb2f.css",
+    "static/js/main.9f3d7460.js"
+  ]
+}
